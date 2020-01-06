@@ -2,3 +2,5 @@
 .gslides
 .gsheet
 .gdraw
+data/*
+output/*
