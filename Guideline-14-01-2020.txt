@@ -1,0 +1,31 @@
+Passos para a anotação:
+	1.Selecione a entidade e escolha, no painel à direita, o tipo da entidade (dispositivo, artigo, inciso, alínea ou parágrafo).
+	2.Arraste a dependência entre as entidades.
+	3.Confira se está tudo correto e clique em Finish.
+
+Observações:
+	1.Se houver qualquer dúvida em qualquer parte da anotação, não clique em Finish.
+	2.Clique em Finish apenas se todo o parágrafo foi anotado.
+	3.Diploma pode ser uma Lei, um Decreto, a Constituição Federal, uma Emenda Constitucional, uma Portaria, um Tratado, uma Instrução Normativa etc.
+	4.Precedente pode ser um Recurso Especial, Recurso Extraordinário, um Processo qualquer, uma ADIN etc.
+	5.Ao selecionar o diploma, selecione a expressão inteira, incluindo a data. Exemplos (selecionar o que está entre aspas): 
+		•da "Lei nº 11.941 de 27 de maio de 2009".
+		•que se encontra na "Constituição Federal de 1988".
+		•"Projeto de Lei Complementar nº 55/2019".
+		•"Emenda Constitucional" é um diploma. "Constituição Federal" é outro. Não relacionar.
+
+
+	6.Ao selecionar um artigo, alínea, inciso, número de parágrafo, súmula ou tema, selecione apenas o número/letra/número romano (se não for possível, selecione o mínimo possível que contenha o número. Por exemplo, se não for possível selecionar artigo "4"º, selecione artigo "4º"). Exemplos:
+		•violou o artigo "5"º da "CF".
+		•violou o artigo "5º" da "CF" (ambos estão certos).
+		•consagrado nas súmulas "282" e "356" do Colendo Supremo Tribunal Federal.
+	7.Ao selecionar um precedente, selecione a expressão inteira que contém o número, mas sem Relator, data de julgamento etc. Exemplos:
+		•"RESP 474.105/SP", Relatora Min Eliana Calmon, DJU de 19.12.03.
+		•"AgRg no Ag 613.619/MG", DJ 20.06.05.
+		•"Mandado de Segurança Apelação/Reexame Necessário Autos nº 5000332-10.2017.4.03.6128".
+
+	8.Havendo as expressões “caput” e “parágrafo único”, selecionar como tipo de entidade parágrafo.
+	9.Se houver duas entidades próximas, selecione como duas entidades separadas e nunca juntando as duas.
+	10.Ignorar as expressões "incisos do" e " e seguintes". Exemplos:
+		•conforme artigo 1022 e seguintes do CPC. (selecione apenas artigo "1022" do "CPC").
+		•nos termos dos incisos do caput do artigo 135 do CTN (selecione apenas "caput" do artigo "135" do "CTN").
